@@ -18,5 +18,8 @@ h1 {
     color: darkgreen;
     background-color: Snow;
 }
+footer p {
+border: 1px solid forestgreen;
+}
 
 
