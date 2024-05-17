@@ -13,5 +13,10 @@ header {
     margin: 40px;
     color: white;
 }
+h1 {
+    text-align: center;
+    color: darkgreen;
+    background-color: Snow;
+}
 
 
