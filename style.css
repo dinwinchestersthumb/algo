@@ -24,12 +24,12 @@ nav a {
     background-color: forestgreen;
     border-radius: 5px;
 }
-}
 .first {
     background-color: forestgreen;
     padding: 6px;
     margin: 40px;
     color: white;
+    text-decoration: none;
 }
 h1 {
     text-align: center;
